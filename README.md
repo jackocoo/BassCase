@@ -1,6 +1,6 @@
 # BassCase
 
-This contains the Sonic Pi file which serves as the musical accompaniment for our song Bass Case. Bass Case is a song written to help CSCI 1101 students understand recursion and reinforce the key concepts of recursion. The song is losely hip hop and features a steady rhythmic section and an uplifting synth melody that is to be played during the chorus. 
+This song is designed to help introductory programmers become more comfortable with the concepts around recursion, a problem solving method that can be very counterintuitive at first. The song’s chorus — four renditions “base case, recursion” — is there to really hammer home how important identifying a base case is when solving a problem recursively. In addition, the chorus’s surrounding verses go into more detail about other recursive problem solving “best practices”, and try to channel cheesy / awkward humor to eliminate the intimidation that often comes when beginning to study recursion.
 
 The song is best performed using live coding techniques. The file should be initially run with the amp in the "uplifiting_melody" section set to 0.0. Then, during the chorus, this amp is changed to 0.3 and let run for one iteration of the 4 notes. Following this one iteration, amp is once again set to 0.0 in this section. 
 
